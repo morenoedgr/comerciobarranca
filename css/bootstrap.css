@@ -3009,8 +3009,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #01e675;
-  border-color: #01e675;
+  background-color: #e51b24;
+  border-color: #e51b24;
 }
 .btn-primary:hover {
   color: #fff;
@@ -3039,8 +3039,8 @@ textarea.form-control-lg {
 
 .btn-secondary {
   color: #fff;
-  background-color: #3b5998;
-  border-color: #3b5998;
+  background-color: #571892;
+  border-color: #571892;
 }
 .btn-secondary:hover {
   color: #fff;
@@ -3069,8 +3069,8 @@ textarea.form-control-lg {
 
 .btn-three {
   color: #fff;
-  background-color: #ff004c;
-  border-color: #ff004c;
+  background-color: #dfb707;
+  border-color: #dfb707;
 }
 .btn-three:hover {
   color: #fff;
@@ -7298,6 +7298,53 @@ textarea.form-control-lg {
 }
 
 .my-5 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+
+.my-6 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+
+.my-7 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.my-8 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.my-9 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.my-10 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.my-11 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.my-12 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.my-13 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.my-14 {
   margin-top: 3rem !important;
   margin-bottom: 3rem !important;
 }
