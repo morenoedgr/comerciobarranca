@@ -26,6 +26,15 @@ function _interopNamespace(e) {
     n.default = e;
     return Object.freeze(n);
   }
+/**
+   * --------------------------------------------------------------------------
+   * Buttons complement
+   * --------------------------------------------------------------------------
+   */
+  function toggleCollapse() {
+  var content = document.getElementById("collapse-content");
+  content.classList.toggle("show");
+}
 
   const Popper__namespace = /*#__PURE__*/_interopNamespace(Popper);
 
